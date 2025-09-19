@@ -71,8 +71,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🤝 Contributors
-- *Your Name*  
-- Open for contributions! Fork this repository and submit a pull request.
+-   KADIRI HARIKA
+-   PAVANI
+-   HARI RAM
+-   SAI KRITHI
+  
 
 ---
 
